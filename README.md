@@ -10,7 +10,7 @@ I'm a **developer** skilled in **web and desktop apps**. I work with **React, Fi
 - **Collaboration**: Open to contributing to open-source projects.
 
 ## 📫 Get in Touch
-- Check out my **[portfolio](#)**.
+- Check out my **[portfolio](https://russellopezportfolio.vercel.app/)**.
 - Connect with me on **GitHub**.
 
 ⚡ **Fun fact:** I enjoy debugging more than coding!
