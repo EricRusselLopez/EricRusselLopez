@@ -1,21 +1,50 @@
-# 👋 Hi, I'm Eric Russel Lopez
+# Eric Russel Lopez
 
-## About Me
-I'm a **developer** skilled in **web and desktop apps**. I work with **React, Firebase, PHP, Java, MySQL, and Node.js** to create fast and reliable solutions.
+Developer and founder of **RusByte Net**, building practical, reliable systems for real-world business needs.
 
-## 🚀 What I Do
-- **Web Development**: Creating responsive and interactive web applications.
-- **Desktop Applications**: Developing robust software solutions.
-- **Database Management**: Working with MySQL & Firebase.
-- **Collaboration**: Open to contributing to open-source projects.
+## About
+I specialize in creating **web, mobile, and desktop applications** with a focus on performance, usability, and long-term maintainability.  
+Alongside company work, I run **RusByte Net**, where I work directly with clients to design and develop custom systems.
 
-## 📫 Get in Touch
-- Connect with me on **GitHub**.
+## Core Stack
 
-⚡ **Fun fact:** I enjoy debugging more than coding!
+### Languages & Frameworks
+- JavaScript
+- React
+- Node.js
+- PHP
+- Java
+- **Kotlin** (Mobile Development)
 
-<!---
-EricRusselLopez/EricRusselLopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Databases & Backend Services
+- MySQL
+- Firebase
 
+### Development Areas
+- Web Application Development
+- Mobile Application Development (Android/Kotlin)
+- Desktop Application Development
+- API Integration & Backend Logic
+- Database Design & Management
+
+## RusByte Net
+At **RusByte Net**, I accept clients who need custom software systems, including:
+- Business management systems
+- Client portals and dashboards
+- Workflow automation tools
+- Role-based admin platforms
+- Mobile and web app solutions
+
+## Build Focus
+- Clean architecture
+- Secure backend logic
+- Responsive UI/UX
+- Scalable system structure
+- Reliable deployment-ready code
+
+## Connect
+- GitHub: [github.com/EricRusselLopez](https://github.com/EricRusselLopez)
+
+---
+
+> Fun fact: I enjoy debugging more than coding.
