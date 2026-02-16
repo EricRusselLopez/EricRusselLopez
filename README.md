@@ -1,12 +1,12 @@
 # Eric Russel Lopez
 
-Developer and founder of **RusByte Net**, building practical, reliable systems for real-world business needs.
+Developer focused on building clean, reliable, and user-friendly software solutions.
 
 ## About
-I specialize in creating **web, mobile, and desktop applications** with a focus on performance, usability, and long-term maintainability.  
-Alongside company work, I run **RusByte Net**, where I work directly with clients to design and develop custom systems.
+I work on **web, mobile, and desktop applications** using modern technologies and practical development workflows.  
+I also collaborate with clients who need custom systems for business operations and digital services.
 
-## Core Stack
+## Tech Stack
 
 ### Languages & Frameworks
 - JavaScript
@@ -20,27 +20,24 @@ Alongside company work, I run **RusByte Net**, where I work directly with client
 - MySQL
 - Firebase
 
-### Development Areas
+### Development Focus
 - Web Application Development
-- Mobile Application Development (Android/Kotlin)
+- Android Mobile Development (Kotlin)
 - Desktop Application Development
-- API Integration & Backend Logic
+- API Integration & Backend Development
 - Database Design & Management
 
-## RusByte Net
-At **RusByte Net**, I accept clients who need custom software systems, including:
+## What I Usually Build
 - Business management systems
-- Client portals and dashboards
-- Workflow automation tools
-- Role-based admin platforms
-- Mobile and web app solutions
+- Admin dashboards and role-based portals
+- Workflow and process automation tools
+- Data-driven web/mobile applications
 
-## Build Focus
-- Clean architecture
-- Secure backend logic
-- Responsive UI/UX
-- Scalable system structure
-- Reliable deployment-ready code
+## Approach
+- Clear and maintainable code
+- Secure and structured backend logic
+- Responsive and accessible interfaces
+- Scalable and production-ready architecture
 
 ## Connect
 - GitHub: [github.com/EricRusselLopez](https://github.com/EricRusselLopez)
